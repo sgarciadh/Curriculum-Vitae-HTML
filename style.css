@@ -1,0 +1,167 @@
+
+body{
+    background: #E1EEE8;
+    background-size: cover;
+}
+
+header{
+    left: 45px;   
+    background: #E1EEE8;
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 68px;
+    color: #414042;
+}
+
+
+h1{
+    background-color: #a4afaa ;
+    background-size: 100px;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 12px;
+}
+
+h2{
+    text-align: center;
+
+}
+
+header nav {
+    background-color: rgb(250, 210, 161);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 10px;
+    color: #414042;
+
+}
+
+main{
+    background-color: blanchedalmond;
+    line-height: 20px
+    
+}
+.personal{
+    position: absolute;
+    width: 285px;
+    height: 156px;
+    left: 400px;
+    top: 340px;
+
+    list-style-type: none;
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 14px;
+    letter-spacing: 0.15px;
+    color: #414042;
+}
+
+.lispan{
+   font-size: small;
+   font-weight: bold;
+}
+
+
+.contacto{
+    position: absolute;
+    width: 385px;
+    height: 390px;
+    left: 800px;
+    top: 390px;
+
+    list-style-type: none;
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 14px;
+    letter-spacing: 0.15px;
+    color: #414042;
+
+}
+
+.reconocimiento{
+        position: absolute;
+        width: 385px;
+        height: 356px;
+        left: 800px;
+        top: 490px;
+    
+        list-style-type: none;
+        font-family: 'Circular Std';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 14px;
+        letter-spacing: 0.15px;
+        color: #414042;
+}
+.skills{
+    position: absolute;
+    width: 600px;
+    height: 156px;
+    left: 14px;
+    top: 490px;
+
+    list-style-type: none;
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 14px;
+    letter-spacing: 0.15px;
+    color: #414042;
+}
+.educacion{
+    position: absolute;
+    width: 385px;
+    height: 356px;
+    left: 800px;
+    top: 560px;
+
+    list-style-type: none;
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 14px;
+    letter-spacing: 0.15px;
+    color: #414042;    
+}
+
+.experiencia{
+    position: absolute;
+    width: 600px;
+    height: 156px;
+    left: 14px;
+    top: 560px;
+
+    list-style-type: none;
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 14px;
+    letter-spacing: 0.15px;
+    color: #414042;
+    
+}
+
+.certificaciones{
+   
+
+}
+footer{
+    background-color: rgb(250, 210, 161);
+    text-align: center;
+    letter-spacing: 20px;
+    
+}
